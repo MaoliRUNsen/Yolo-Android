@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/x86_64'
+ninja: no work to do.

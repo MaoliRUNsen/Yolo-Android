@@ -1,0 +1,7 @@
+Executable : /opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/armeabi-v7a
+yolov5ncnn
+jvmArgs : 
+

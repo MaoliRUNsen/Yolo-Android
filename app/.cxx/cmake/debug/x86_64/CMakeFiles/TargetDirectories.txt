@@ -1,0 +1,3 @@
+/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/x86_64/CMakeFiles/yolov5ncnn.dir

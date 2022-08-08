@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o
+[2/2] Linking CXX shared library /home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so

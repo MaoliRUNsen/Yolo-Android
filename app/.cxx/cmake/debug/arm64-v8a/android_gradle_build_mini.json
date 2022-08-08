@@ -1,0 +1,30 @@
+{
+  "buildFiles": [
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/glslangTargets.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/OSDependentTargets.cmake",
+    "/opt/developutils/android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/CMakeLists.txt",
+    "/opt/developutils/android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/glslangTargets-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/SPIRVTargets.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/OGLCompilerTargets.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/ncnn/ncnn.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/arm64-v8a/lib/cmake/OGLCompilerTargets-release.cmake"
+  ],
+  "cleanCommands": [
+    "/opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "/opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so"
+    }
+  }
+}

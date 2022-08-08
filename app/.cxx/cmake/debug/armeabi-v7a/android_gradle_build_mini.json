@@ -1,0 +1,30 @@
+{
+  "buildFiles": [
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/OSDependentTargets.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/opt/developutils/android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/ncnn/ncnn.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/CMakeLists.txt",
+    "/opt/developutils/android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/glslangTargets-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/glslangTargets.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/OGLCompilerTargets.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/src/main/jni/armeabi-v7a/lib/cmake/SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "/opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-armeabi-v7a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "/opt/developutils/android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/.cxx/cmake/debug/armeabi-v7a\" yolov5ncnn",
+      "abi": "armeabi-v7a",
+      "output": "/home/geekplusa/ai/projects/github/yolo/yolov5-android-ncnn/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5ncnn.so"
+    }
+  }
+}
